@@ -3,7 +3,6 @@
 This repository is a template for the course lab. It includes:
 - rust
 - VSCode extension to be installed
-- a simple project
 
 ## Labs
 - The lab text can be found at [exercises book](https://upb-cs-rust.github.io/101-rs/exercises/).
